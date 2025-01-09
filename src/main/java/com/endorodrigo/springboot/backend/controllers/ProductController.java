@@ -1,7 +1,7 @@
-package com.andres.curso.java.springboot.backend.controllers;
+package com.endorodrigo.springboot.backend.controllers;
 
-import com.andres.curso.java.springboot.backend.entities.Product;
-import com.andres.curso.java.springboot.backend.services.ProductService;
+import com.endorodrigo.springboot.backend.entities.Product;
+import com.endorodrigo.springboot.backend.services.ProductService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

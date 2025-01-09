@@ -1,7 +1,7 @@
-package com.andres.curso.java.springboot.backend.services;
+package com.endorodrigo.springboot.backend.services;
 
-import com.andres.curso.java.springboot.backend.entities.Product;
-import com.andres.curso.java.springboot.backend.repositories.ProductRepository;
+import com.endorodrigo.springboot.backend.entities.Product;
+import com.endorodrigo.springboot.backend.repositories.ProductRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

@@ -1,6 +1,6 @@
-package com.andres.curso.java.springboot.backend.services;
+package com.endorodrigo.springboot.backend.services;
 
-import com.andres.curso.java.springboot.backend.entities.Product;
+import com.endorodrigo.springboot.backend.entities.Product;
 
 import java.util.List;
 import java.util.Optional;

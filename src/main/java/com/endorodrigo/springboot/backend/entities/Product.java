@@ -1,4 +1,4 @@
-package com.andres.curso.java.springboot.backend.entities;
+package com.endorodrigo.springboot.backend.entities;
 
 import jakarta.persistence.*;
 
